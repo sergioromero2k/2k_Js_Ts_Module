@@ -116,7 +116,7 @@ const pares = numeros.filter(n => n % 2 === 0);
 * Los 3 métodos se pueden concatenar.
 
 ## ex08
-Destructurin es una sintaxis que te permite "desempacar" valores de un array o de un objeto y guardarlos directamente en variables
+Destructuring es una sintaxis que te permite "desempacar" valores de un array o de un objeto y guardarlos directamente en variables
 en una sola línea, sin tener que acceder elemento por elemento manualmente.
 
 ### Destructuring de arrays
